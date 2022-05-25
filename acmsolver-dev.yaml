@@ -1,0 +1,53 @@
+
+kind: Service
+apiVersion: v1
+metadata:
+  name: acmsolver-svc
+  namespace: acm-service
+  labels:
+    app: acmsolver
+spec:
+  selector:
+    app: acmsolver
+  ports:
+  - protocol: TCP
+    port: 80
+    targetPort: 50051
+  type: NodePort
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: acmsolver-dep
+  namespace: acm-service
+  labels:
+    app: acmsolver
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: acmsolver
+  template:
+    metadata:
+      labels:
+        app: acmsolver
+    spec:
+      imagePullSecrets:
+      - name: registry-dev-secret
+      containers:
+      - name: acmsolver
+        image: registry.awing.vn/acm-dev/acmsolver-svc:$BUILD_NUMBER
+        env:
+        volumeMounts:
+         - mountPath: "/etc/localtime"
+           name: awingtimezone
+         - name: config
+           mountPath: "/acmsolver/acm_solver/config.py"
+           subPath: "config.py"
+      volumes:
+       - name: awingtimezone
+         hostPath:
+          path: "/usr/share/zoneinfo/Asia/Ho_Chi_Minh"
+       - name: config
+         configMap: 
+          name: acmsolver-config

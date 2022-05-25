@@ -1,0 +1,1821 @@
+[{
+  "_id": {
+    "$oid": "619dc6bd87c9e49197557386"
+  },
+  "problemId": "aPhong",
+  "campaignId": 0,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 39.99999950000001,
+  "createDate": {
+    "$date": "2021-11-24T04:59:41.072Z"
+  }
+},{
+  "_id": {
+    "$oid": "619dc6bd87c9e49197557387"
+  },
+  "problemId": "aPhong",
+  "campaignId": 1,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 39.99999975,
+  "createDate": {
+    "$date": "2021-11-24T04:59:41.072Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a757ee9b88fd3f184a4dce"
+  },
+  "problemId": "2",
+  "campaignId": "-1",
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 0.001001440949707444,
+  "createDate": {
+    "$date": "2021-12-01T11:09:34.308Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a757ee9b88fd3f184a4dcf"
+  },
+  "problemId": "2",
+  "campaignId": 0,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 12.72727278996855,
+  "createDate": {
+    "$date": "2021-12-01T11:09:34.308Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a757ee9b88fd3f184a4dd0"
+  },
+  "problemId": "2",
+  "campaignId": 1,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 39.99899855905029,
+  "createDate": {
+    "$date": "2021-12-01T11:09:34.308Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a757ee9b88fd3f184a4dd1"
+  },
+  "problemId": "2",
+  "campaignId": 1,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 7.2727272100314515,
+  "createDate": {
+    "$date": "2021-12-01T11:09:34.308Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a757f29b88fd3f184a4dd4"
+  },
+  "problemId": "3",
+  "campaignId": 0,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 19.99999997167521,
+  "createDate": {
+    "$date": "2021-12-01T11:09:38.620Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a757f29b88fd3f184a4dd5"
+  },
+  "problemId": "3",
+  "campaignId": 0,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "view": 19.99999997167521,
+  "createDate": {
+    "$date": "2021-12-01T11:09:38.620Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a757f29b88fd3f184a4dd6"
+  },
+  "problemId": "3",
+  "campaignId": 0,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 10.000000028420061,
+  "createDate": {
+    "$date": "2021-12-01T11:09:38.620Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a757f29b88fd3f184a4dd7"
+  },
+  "problemId": "3",
+  "campaignId": 0,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "view": 10.00000002842006,
+  "createDate": {
+    "$date": "2021-12-01T11:09:38.620Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a757f29b88fd3f184a4dd8"
+  },
+  "problemId": "3",
+  "campaignId": 1,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 20.000000027601033,
+  "createDate": {
+    "$date": "2021-12-01T11:09:38.620Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a757f29b88fd3f184a4dd9"
+  },
+  "problemId": "3",
+  "campaignId": 1,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "view": 20.000000027601033,
+  "createDate": {
+    "$date": "2021-12-01T11:09:38.620Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a757f29b88fd3f184a4dda"
+  },
+  "problemId": "3",
+  "campaignId": 1,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 9.999999972497807,
+  "createDate": {
+    "$date": "2021-12-01T11:09:38.620Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a757f29b88fd3f184a4ddb"
+  },
+  "problemId": "3",
+  "campaignId": 1,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "view": 9.999999972497807,
+  "createDate": {
+    "$date": "2021-12-01T11:09:38.620Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a757f89b88fd3f184a4dde"
+  },
+  "problemId": "4",
+  "campaignId": "-1",
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 0.0011050847218783133,
+  "createDate": {
+    "$date": "2021-12-01T11:09:44.098Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a757f89b88fd3f184a4ddf"
+  },
+  "problemId": "4",
+  "campaignId": "-1",
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "view": 0.0011050847218783133,
+  "createDate": {
+    "$date": "2021-12-01T11:09:44.098Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a757f89b88fd3f184a4de0"
+  },
+  "problemId": "4",
+  "campaignId": 0,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 20.00000005123345,
+  "createDate": {
+    "$date": "2021-12-01T11:09:44.098Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a757f89b88fd3f184a4de1"
+  },
+  "problemId": "4",
+  "campaignId": 0,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "view": 20.00000005123345,
+  "createDate": {
+    "$date": "2021-12-01T11:09:44.098Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a757f89b88fd3f184a4de2"
+  },
+  "problemId": "4",
+  "campaignId": 1,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 19.999999934128407,
+  "createDate": {
+    "$date": "2021-12-01T11:09:44.098Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a757f89b88fd3f184a4de3"
+  },
+  "problemId": "4",
+  "campaignId": 1,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "view": 19.999999934128407,
+  "createDate": {
+    "$date": "2021-12-01T11:09:44.098Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a757f89b88fd3f184a4de4"
+  },
+  "problemId": "4",
+  "campaignId": 1,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 19.99889491527812,
+  "createDate": {
+    "$date": "2021-12-01T11:09:44.098Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a757f89b88fd3f184a4de5"
+  },
+  "problemId": "4",
+  "campaignId": 1,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "view": 19.99889491527812,
+  "createDate": {
+    "$date": "2021-12-01T11:09:44.098Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a757fe9b88fd3f184a4de8"
+  },
+  "problemId": "5",
+  "campaignId": "-1",
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 0.0008760719224802926,
+  "createDate": {
+    "$date": "2021-12-01T11:09:50.141Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a757fe9b88fd3f184a4de9"
+  },
+  "problemId": "5",
+  "campaignId": "-1",
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "view": 0.0008760719224802926,
+  "createDate": {
+    "$date": "2021-12-01T11:09:50.141Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a757fe9b88fd3f184a4dea"
+  },
+  "problemId": "5",
+  "campaignId": 0,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 18.666666601219365,
+  "createDate": {
+    "$date": "2021-12-01T11:09:50.141Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a757fe9b88fd3f184a4deb"
+  },
+  "problemId": "5",
+  "campaignId": 0,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "view": 18.666666601219365,
+  "createDate": {
+    "$date": "2021-12-01T11:09:50.141Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a757fe9b88fd3f184a4dec"
+  },
+  "problemId": "5",
+  "campaignId": 1,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 21.333333388924682,
+  "createDate": {
+    "$date": "2021-12-01T11:09:50.141Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a757fe9b88fd3f184a4ded"
+  },
+  "problemId": "5",
+  "campaignId": 1,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "view": 21.333333388924682,
+  "createDate": {
+    "$date": "2021-12-01T11:09:50.141Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a757fe9b88fd3f184a4dee"
+  },
+  "problemId": "5",
+  "campaignId": 1,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 19.99912392807752,
+  "createDate": {
+    "$date": "2021-12-01T11:09:50.141Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a757fe9b88fd3f184a4def"
+  },
+  "problemId": "5",
+  "campaignId": 1,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "view": 19.99912392807752,
+  "createDate": {
+    "$date": "2021-12-01T11:09:50.141Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a758029b88fd3f184a4df2"
+  },
+  "problemId": "6",
+  "campaignId": "-1",
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 0.0013716070179015105,
+  "createDate": {
+    "$date": "2021-12-01T11:09:54.820Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a758029b88fd3f184a4df3"
+  },
+  "problemId": "6",
+  "campaignId": "-1",
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 0.0007803428202031171,
+  "createDate": {
+    "$date": "2021-12-01T11:09:54.820Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a758029b88fd3f184a4df4"
+  },
+  "problemId": "6",
+  "campaignId": 0,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "view": 21.53846159959039,
+  "createDate": {
+    "$date": "2021-12-01T11:09:54.820Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a758029b88fd3f184a4df5"
+  },
+  "problemId": "6",
+  "campaignId": 0,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "view": 10.769230817303558,
+  "createDate": {
+    "$date": "2021-12-01T11:09:54.820Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a758029b88fd3f184a4df6"
+  },
+  "problemId": "6",
+  "campaignId": 1,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 39.9986283929821,
+  "createDate": {
+    "$date": "2021-12-01T11:09:54.820Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a758029b88fd3f184a4df7"
+  },
+  "problemId": "6",
+  "campaignId": 1,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "view": 18.46153839021645,
+  "createDate": {
+    "$date": "2021-12-01T11:09:54.820Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a758029b88fd3f184a4df8"
+  },
+  "problemId": "6",
+  "campaignId": 1,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 19.999219657179797,
+  "createDate": {
+    "$date": "2021-12-01T11:09:54.820Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a758029b88fd3f184a4df9"
+  },
+  "problemId": "6",
+  "campaignId": 1,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "view": 9.230769172503283,
+  "createDate": {
+    "$date": "2021-12-01T11:09:54.820Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a758089b88fd3f184a4dfc"
+  },
+  "problemId": "7",
+  "campaignId": "-1",
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 6.366120074880179,
+  "createDate": {
+    "$date": "2021-12-01T11:10:00.329Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a758089b88fd3f184a4dfd"
+  },
+  "problemId": "7",
+  "campaignId": 0,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 14.032786804323491,
+  "createDate": {
+    "$date": "2021-12-01T11:10:00.329Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a758089b88fd3f184a4dfe"
+  },
+  "problemId": "7",
+  "campaignId": 0,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 13.633879925119821,
+  "createDate": {
+    "$date": "2021-12-01T11:10:00.329Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a758089b88fd3f184a4dff"
+  },
+  "problemId": "7",
+  "campaignId": 1,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 25.96721319567651,
+  "createDate": {
+    "$date": "2021-12-01T11:10:00.329Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a7580d9b88fd3f184a4e02"
+  },
+  "problemId": "8",
+  "campaignId": 0,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 18.444444328157495,
+  "createDate": {
+    "$date": "2021-12-01T11:10:05.498Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a7580d9b88fd3f184a4e03"
+  },
+  "problemId": "8",
+  "campaignId": 0,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 9.222222179783042,
+  "createDate": {
+    "$date": "2021-12-01T11:10:05.498Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a7580d9b88fd3f184a4e04"
+  },
+  "problemId": "8",
+  "campaignId": 1,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 21.555555652354172,
+  "createDate": {
+    "$date": "2021-12-01T11:10:05.498Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a7580d9b88fd3f184a4e05"
+  },
+  "problemId": "8",
+  "campaignId": 1,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 10.77777780072863,
+  "createDate": {
+    "$date": "2021-12-01T11:10:05.498Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a758129b88fd3f184a4e08"
+  },
+  "problemId": "9",
+  "campaignId": 0,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 18.444444373923613,
+  "createDate": {
+    "$date": "2021-12-01T11:10:10.129Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a758129b88fd3f184a4e09"
+  },
+  "problemId": "9",
+  "campaignId": 0,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "view": 18.444444373923613,
+  "createDate": {
+    "$date": "2021-12-01T11:10:10.129Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a758129b88fd3f184a4e0a"
+  },
+  "problemId": "9",
+  "campaignId": 0,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 9.222222204238467,
+  "createDate": {
+    "$date": "2021-12-01T11:10:10.129Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a758129b88fd3f184a4e0b"
+  },
+  "problemId": "9",
+  "campaignId": 0,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "view": 9.222222204238467,
+  "createDate": {
+    "$date": "2021-12-01T11:10:10.129Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a758129b88fd3f184a4e0c"
+  },
+  "problemId": "9",
+  "campaignId": 1,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 21.55555561656351,
+  "createDate": {
+    "$date": "2021-12-01T11:10:10.129Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a758129b88fd3f184a4e0d"
+  },
+  "problemId": "9",
+  "campaignId": 1,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "view": 21.55555561656351,
+  "createDate": {
+    "$date": "2021-12-01T11:10:10.129Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a758129b88fd3f184a4e0e"
+  },
+  "problemId": "9",
+  "campaignId": 1,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 10.777777786248656,
+  "createDate": {
+    "$date": "2021-12-01T11:10:10.129Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a758129b88fd3f184a4e0f"
+  },
+  "problemId": "9",
+  "campaignId": 1,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "view": 10.777777786248658,
+  "createDate": {
+    "$date": "2021-12-01T11:10:10.129Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a758169b88fd3f184a4e12"
+  },
+  "problemId": "10",
+  "campaignId": "-1",
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 0.0008760719224802926,
+  "createDate": {
+    "$date": "2021-12-01T11:10:14.837Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a758169b88fd3f184a4e13"
+  },
+  "problemId": "10",
+  "campaignId": "-1",
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "view": 0.0008760719224802926,
+  "createDate": {
+    "$date": "2021-12-01T11:10:14.837Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a758169b88fd3f184a4e14"
+  },
+  "problemId": "10",
+  "campaignId": 0,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 18.666666601219365,
+  "createDate": {
+    "$date": "2021-12-01T11:10:14.837Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a758169b88fd3f184a4e15"
+  },
+  "problemId": "10",
+  "campaignId": 0,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "view": 18.666666601219365,
+  "createDate": {
+    "$date": "2021-12-01T11:10:14.837Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a758169b88fd3f184a4e16"
+  },
+  "problemId": "10",
+  "campaignId": 1,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 21.333333388924682,
+  "createDate": {
+    "$date": "2021-12-01T11:10:14.837Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a758169b88fd3f184a4e17"
+  },
+  "problemId": "10",
+  "campaignId": 1,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "view": 21.333333388924682,
+  "createDate": {
+    "$date": "2021-12-01T11:10:14.837Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a758169b88fd3f184a4e18"
+  },
+  "problemId": "10",
+  "campaignId": 1,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 19.99912392807752,
+  "createDate": {
+    "$date": "2021-12-01T11:10:14.837Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a758169b88fd3f184a4e19"
+  },
+  "problemId": "10",
+  "campaignId": 1,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "view": 19.99912392807752,
+  "createDate": {
+    "$date": "2021-12-01T11:10:14.837Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a8e51ee12d51c6fe3f11"
+  },
+  "problemId": "1_network_campaign_share_rate_0",
+  "campaignId": "-1",
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 5.000000437499992,
+  "createDate": {
+    "$date": "2021-12-02T11:07:17.725Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a8e51ee12d51c6fe3f12"
+  },
+  "problemId": "1_network_campaign_share_rate_0",
+  "campaignId": 0,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 34.99999956250001,
+  "createDate": {
+    "$date": "2021-12-02T11:07:17.725Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a8ec1ee12d51c6fe3f14"
+  },
+  "problemId": "1_domain_campaign_share_rate_1",
+  "campaignId": "-1",
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 15.000000388888886,
+  "createDate": {
+    "$date": "2021-12-02T11:07:24.631Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a8ec1ee12d51c6fe3f15"
+  },
+  "problemId": "1_domain_campaign_share_rate_1",
+  "campaignId": 0,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 34.999999611111114,
+  "createDate": {
+    "$date": "2021-12-02T11:07:24.631Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a8f11ee12d51c6fe3f17"
+  },
+  "problemId": "1_campaign_a_each",
+  "campaignId": 0,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 15.999999999249964,
+  "createDate": {
+    "$date": "2021-12-02T11:07:29.250Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a8f11ee12d51c6fe3f18"
+  },
+  "problemId": "1_campaign_a_each",
+  "campaignId": 0,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 8,
+  "createDate": {
+    "$date": "2021-12-02T11:07:29.250Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a8f11ee12d51c6fe3f19"
+  },
+  "problemId": "1_campaign_a_each",
+  "campaignId": 1,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 24,
+  "createDate": {
+    "$date": "2021-12-02T11:07:29.250Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a8f11ee12d51c6fe3f1a"
+  },
+  "problemId": "1_campaign_a_each",
+  "campaignId": 1,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 12,
+  "createDate": {
+    "$date": "2021-12-02T11:07:29.250Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a8f61ee12d51c6fe3f1b"
+  },
+  "problemId": "2_campaign_a_network",
+  "campaignId": 0,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 19.999999999624983,
+  "createDate": {
+    "$date": "2021-12-02T11:07:34.257Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a8f61ee12d51c6fe3f1c"
+  },
+  "problemId": "2_campaign_a_network",
+  "campaignId": 0,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 30,
+  "createDate": {
+    "$date": "2021-12-02T11:07:34.257Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a8f61ee12d51c6fe3f1d"
+  },
+  "problemId": "2_campaign_a_network",
+  "campaignId": 1,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 19.999999999624983,
+  "createDate": {
+    "$date": "2021-12-02T11:07:34.257Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a8f61ee12d51c6fe3f1e"
+  },
+  "problemId": "2_campaign_a_network",
+  "campaignId": 1,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 30,
+  "createDate": {
+    "$date": "2021-12-02T11:07:34.257Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a8fb1ee12d51c6fe3f1f"
+  },
+  "problemId": "2_campaign_a_domain",
+  "campaignId": 0,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 19.999999999624983,
+  "createDate": {
+    "$date": "2021-12-02T11:07:39.059Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a8fb1ee12d51c6fe3f20"
+  },
+  "problemId": "2_campaign_a_domain",
+  "campaignId": 0,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 20,
+  "createDate": {
+    "$date": "2021-12-02T11:07:39.059Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a8fb1ee12d51c6fe3f21"
+  },
+  "problemId": "2_campaign_a_domain",
+  "campaignId": 1,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 19.999999999624983,
+  "createDate": {
+    "$date": "2021-12-02T11:07:39.059Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a8fb1ee12d51c6fe3f22"
+  },
+  "problemId": "2_campaign_a_domain",
+  "campaignId": 1,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 20,
+  "createDate": {
+    "$date": "2021-12-02T11:07:39.059Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a8ff1ee12d51c6fe3f23"
+  },
+  "problemId": "have_profiles",
+  "campaignId": "-1",
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 18.900000000000002,
+  "createDate": {
+    "$date": "2021-12-02T11:07:43.811Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a8ff1ee12d51c6fe3f24"
+  },
+  "problemId": "have_profiles",
+  "campaignId": "-1",
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 18.900000000000002,
+  "createDate": {
+    "$date": "2021-12-02T11:07:43.811Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a8ff1ee12d51c6fe3f25"
+  },
+  "problemId": "have_profiles",
+  "campaignId": 0,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 13.93396203708338,
+  "createDate": {
+    "$date": "2021-12-02T11:07:43.811Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a8ff1ee12d51c6fe3f26"
+  },
+  "problemId": "have_profiles",
+  "campaignId": 0,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 13.93396203708338,
+  "createDate": {
+    "$date": "2021-12-02T11:07:43.811Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a8ff1ee12d51c6fe3f27"
+  },
+  "problemId": "have_profiles",
+  "campaignId": 1,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 7.166037958754332,
+  "createDate": {
+    "$date": "2021-12-02T11:07:43.811Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a8ff1ee12d51c6fe3f28"
+  },
+  "problemId": "have_profiles",
+  "campaignId": 1,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 7.166037958754332,
+  "createDate": {
+    "$date": "2021-12-02T11:07:43.811Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a9041ee12d51c6fe3f2b"
+  },
+  "problemId": "1_b_network_1_c_domain",
+  "campaignId": 0,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 16.000000332635906,
+  "createDate": {
+    "$date": "2021-12-02T11:07:48.578Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a9041ee12d51c6fe3f2c"
+  },
+  "problemId": "1_b_network_1_c_domain",
+  "campaignId": 0,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 16.000000332635906,
+  "createDate": {
+    "$date": "2021-12-02T11:07:48.578Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a9041ee12d51c6fe3f2d"
+  },
+  "problemId": "1_b_network_1_c_domain",
+  "campaignId": 1,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 23.999999667424948,
+  "createDate": {
+    "$date": "2021-12-02T11:07:48.578Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a9041ee12d51c6fe3f2e"
+  },
+  "problemId": "1_b_network_1_c_domain",
+  "campaignId": 1,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 23.99999966742495,
+  "createDate": {
+    "$date": "2021-12-02T11:07:48.578Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a92e1ee12d51c6fe3f30"
+  },
+  "problemId": "1_b_network_1_c_network",
+  "campaignId": 1,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 40,
+  "createDate": {
+    "$date": "2021-12-02T11:08:30.282Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a92e1ee12d51c6fe3f31"
+  },
+  "problemId": "1_b_network_1_c_network",
+  "campaignId": 1,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 40,
+  "createDate": {
+    "$date": "2021-12-02T11:08:30.282Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a9351ee12d51c6fe3f33"
+  },
+  "problemId": "1_b_domain_1_c_network",
+  "campaignId": 0,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 17.499569452744897,
+  "createDate": {
+    "$date": "2021-12-02T11:08:37.654Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a9351ee12d51c6fe3f34"
+  },
+  "problemId": "1_b_domain_1_c_network",
+  "campaignId": 0,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 17.499569452744897,
+  "createDate": {
+    "$date": "2021-12-02T11:08:37.654Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a9351ee12d51c6fe3f35"
+  },
+  "problemId": "1_b_domain_1_c_network",
+  "campaignId": 1,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 22.500430547255103,
+  "createDate": {
+    "$date": "2021-12-02T11:08:37.654Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a9351ee12d51c6fe3f36"
+  },
+  "problemId": "1_b_domain_1_c_network",
+  "campaignId": 1,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 22.500430547255107,
+  "createDate": {
+    "$date": "2021-12-02T11:08:37.654Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a93a1ee12d51c6fe3f38"
+  },
+  "problemId": "1_b_domain_1_c_domain",
+  "campaignId": "-1",
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 5.000000437499992,
+  "createDate": {
+    "$date": "2021-12-02T11:08:42.828Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a93a1ee12d51c6fe3f39"
+  },
+  "problemId": "1_b_domain_1_c_domain",
+  "campaignId": 0,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 34.99999956250001,
+  "createDate": {
+    "$date": "2021-12-02T11:08:42.828Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a93a1ee12d51c6fe3f3a"
+  },
+  "problemId": "1_b_domain_1_c_domain",
+  "campaignId": 1,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 40,
+  "createDate": {
+    "$date": "2021-12-02T11:08:42.828Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a9441ee12d51c6fe3f44"
+  },
+  "problemId": "1_max_rss",
+  "campaignId": "-1",
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 20.000000172752177,
+  "createDate": {
+    "$date": "2021-12-02T11:08:52.719Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a9441ee12d51c6fe3f45"
+  },
+  "problemId": "1_max_rss",
+  "campaignId": 0,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 26.66666664064552,
+  "createDate": {
+    "$date": "2021-12-02T11:08:52.719Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a9441ee12d51c6fe3f46"
+  },
+  "problemId": "1_max_rss",
+  "campaignId": 1,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 19.999999827247823,
+  "createDate": {
+    "$date": "2021-12-02T11:08:52.719Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a9441ee12d51c6fe3f47"
+  },
+  "problemId": "1_max_rss",
+  "campaignId": 1,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 13.333333251912018,
+  "createDate": {
+    "$date": "2021-12-02T11:08:52.719Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a9491ee12d51c6fe3f4a"
+  },
+  "problemId": "chenh_lech",
+  "campaignId": 0,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 39.99842128204657,
+  "createDate": {
+    "$date": "2021-12-02T11:08:57.266Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a9491ee12d51c6fe3f4b"
+  },
+  "problemId": "chenh_lech",
+  "campaignId": 0,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 39.99842128204657,
+  "createDate": {
+    "$date": "2021-12-02T11:08:57.266Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a9491ee12d51c6fe3f4c"
+  },
+  "problemId": "chenh_lech",
+  "campaignId": 1,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 0.0015786743487315503,
+  "createDate": {
+    "$date": "2021-12-02T11:08:57.266Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8a9491ee12d51c6fe3f4d"
+  },
+  "problemId": "chenh_lech",
+  "campaignId": 1,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 0.0015786743487315503,
+  "createDate": {
+    "$date": "2021-12-02T11:08:57.266Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a97b4f48f36e0cbf488f53"
+  },
+  "problemId": "1",
+  "campaignId": 0,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 18.444444402231582,
+  "createDate": {
+    "$date": "2021-12-03T02:05:03.465Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a97b4f48f36e0cbf488f54"
+  },
+  "problemId": "1",
+  "campaignId": 0,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 9.222222216820082,
+  "createDate": {
+    "$date": "2021-12-03T02:05:03.465Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a97b4f48f36e0cbf488f55"
+  },
+  "problemId": "1",
+  "campaignId": 1,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 21.555555578280078,
+  "createDate": {
+    "$date": "2021-12-03T02:05:03.465Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a97b4f48f36e0cbf488f56"
+  },
+  "problemId": "1",
+  "campaignId": 1,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 10.777777763691576,
+  "createDate": {
+    "$date": "2021-12-03T02:05:03.465Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a9823e48f36e0cbf488f61"
+  },
+  "problemId": "hard_nw_1",
+  "campaignId": "-1",
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 16.665779240989444,
+  "createDate": {
+    "$date": "2021-12-03T02:34:38.985Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a9823e48f36e0cbf488f62"
+  },
+  "problemId": "hard_nw_1",
+  "campaignId": "-1",
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 0.009981218614214526,
+  "createDate": {
+    "$date": "2021-12-03T02:34:38.985Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a9823e48f36e0cbf488f63"
+  },
+  "problemId": "hard_nw_1",
+  "campaignId": 0,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 49.999999698761656,
+  "createDate": {
+    "$date": "2021-12-03T02:34:38.985Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a9823e48f36e0cbf488f64"
+  },
+  "problemId": "hard_nw_1",
+  "campaignId": 0,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 133.32549517772287,
+  "createDate": {
+    "$date": "2021-12-03T02:34:38.985Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a9823e48f36e0cbf488f65"
+  },
+  "problemId": "hard_nw_1",
+  "campaignId": 1,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 33.3342210602489,
+  "createDate": {
+    "$date": "2021-12-03T02:34:38.985Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a9823e48f36e0cbf488f66"
+  },
+  "problemId": "hard_nw_1",
+  "campaignId": 1,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 66.66452360366291,
+  "createDate": {
+    "$date": "2021-12-03T02:34:38.985Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a9e705bec5e8a759ca0f1a"
+  },
+  "problemId": "1c",
+  "campaignId": 0,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 17.494080668980146,
+  "createDate": {
+    "$date": "2021-12-03T09:44:37.305Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a9e705bec5e8a759ca0f1b"
+  },
+  "problemId": "1c",
+  "campaignId": 0,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 17.494080668980153,
+  "createDate": {
+    "$date": "2021-12-03T09:44:37.305Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a9e705bec5e8a759ca0f1c"
+  },
+  "problemId": "1c",
+  "campaignId": 1,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 22.50591933101985,
+  "createDate": {
+    "$date": "2021-12-03T09:44:37.305Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a9e705bec5e8a759ca0f1d"
+  },
+  "problemId": "1c",
+  "campaignId": 1,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 22.50591933101985,
+  "createDate": {
+    "$date": "2021-12-03T09:44:37.305Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a9e70dbec5e8a759ca0f1f"
+  },
+  "problemId": "2c",
+  "campaignId": 0,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 47.50000729803185,
+  "createDate": {
+    "$date": "2021-12-03T09:44:45.293Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a9e70dbec5e8a759ca0f20"
+  },
+  "problemId": "2c",
+  "campaignId": 2,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 39.99999986684656,
+  "createDate": {
+    "$date": "2021-12-03T09:44:45.293Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a9e70dbec5e8a759ca0f21"
+  },
+  "problemId": "2c",
+  "campaignId": 2,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 7.499992701968142,
+  "createDate": {
+    "$date": "2021-12-03T09:44:45.293Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a9e711bec5e8a759ca0f23"
+  },
+  "problemId": "3c",
+  "campaignId": 1,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 20.000000000175,
+  "createDate": {
+    "$date": "2021-12-03T09:44:49.954Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a9e711bec5e8a759ca0f24"
+  },
+  "problemId": "3c",
+  "campaignId": 1,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "view": 20.000000000175,
+  "createDate": {
+    "$date": "2021-12-03T09:44:49.954Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a9e711bec5e8a759ca0f25"
+  },
+  "problemId": "3c",
+  "campaignId": 1,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 15.000000000190624,
+  "createDate": {
+    "$date": "2021-12-03T09:44:49.954Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a9e711bec5e8a759ca0f26"
+  },
+  "problemId": "3c",
+  "campaignId": 1,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "view": 20.000000000175,
+  "createDate": {
+    "$date": "2021-12-03T09:44:49.954Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a9e711bec5e8a759ca0f27"
+  },
+  "problemId": "3c",
+  "campaignId": 2,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 20.000000000175,
+  "createDate": {
+    "$date": "2021-12-03T09:44:49.954Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a9e711bec5e8a759ca0f28"
+  },
+  "problemId": "3c",
+  "campaignId": 2,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "view": 20.000000000175,
+  "createDate": {
+    "$date": "2021-12-03T09:44:49.954Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a9e711bec5e8a759ca0f29"
+  },
+  "problemId": "3c",
+  "campaignId": 2,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 15.000000000190624,
+  "createDate": {
+    "$date": "2021-12-03T09:44:49.954Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a9e711bec5e8a759ca0f2a"
+  },
+  "problemId": "3c",
+  "campaignId": 2,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "view": 20.000000000175,
+  "createDate": {
+    "$date": "2021-12-03T09:44:49.954Z"
+  }
+}]

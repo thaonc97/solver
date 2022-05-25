@@ -1,0 +1,175 @@
+[{
+  "_id": {
+    "$oid": "60f4ff5bebdfdca0db5da3a1"
+  },
+  "problemId": "1_max_rss",
+  "placeId": 0,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.4,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "60f4ff64ebdfdca0db5da3b7"
+  },
+  "problemId": "1_max_rss",
+  "placeId": 1,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.4,
+  "shareType": "SOFT"
+}]

@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "60f4ff03ebdfdca0db5da2ea"
+  },
+  "problemId": "1_max_rss",
+  "campaignId": 0,
+  "isNetwork": true,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "priority": "CLASS_B",
+  "type": "DEFAULT",
+  "total": 40,
+  "placeIds": [
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "60f4ff1cebdfdca0db5da316"
+  },
+  "problemId": "1_max_rss",
+  "campaignId": 1,
+  "isNetwork": true,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "priority": "CLASS_B",
+  "type": "DEFAULT",
+  "total": 40,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+}]

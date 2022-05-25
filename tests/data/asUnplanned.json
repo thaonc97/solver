@@ -1,0 +1,221 @@
+[{
+  "_id": {
+    "$oid": "60d559c15f100b5df5fcfbfc"
+  },
+  "problemId": "1",
+  "campaignId": 0,
+  "unplanned": 6.99999975000003,
+  "createDate": {
+    "$date": "2021-06-25T04:21:21.076Z"
+  }
+},{
+  "_id": {
+    "$oid": "60d559c15f100b5df5fcfbfd"
+  },
+  "problemId": "1",
+  "campaignId": 1,
+  "unplanned": 27.9999995714286,
+  "createDate": {
+    "$date": "2021-06-25T04:21:21.076Z"
+  }
+},{
+  "_id": {
+    "$oid": "60d56351837f879eee6fc021"
+  },
+  "problemId": "2c",
+  "campaignId": 1,
+  "unplanned": 34.99999936363638,
+  "createDate": {
+    "$date": "2021-06-25T05:02:08.993Z"
+  }
+},{
+  "_id": {
+    "$oid": "60d56351837f879eee6fc022"
+  },
+  "problemId": "2c",
+  "campaignId": 2,
+  "unplanned": 0,
+  "createDate": {
+    "$date": "2021-06-25T05:02:08.993Z"
+  }
+},{
+  "_id": {
+    "$oid": "60d58aa863468a38a07a7f3f"
+  },
+  "problemId": "3",
+  "campaignId": 0,
+  "unplanned": 9.999999416666682,
+  "createDate": {
+    "$date": "2021-06-25T07:49:59.967Z"
+  }
+},{
+  "_id": {
+    "$oid": "60d58aa863468a38a07a7f40"
+  },
+  "problemId": "3",
+  "campaignId": 1,
+  "unplanned": 59.99999900000009,
+  "createDate": {
+    "$date": "2021-06-25T07:49:59.967Z"
+  }
+},{
+  "_id": {
+    "$oid": "60d58ab463468a38a07a7f47"
+  },
+  "problemId": "4",
+  "campaignId": 0,
+  "unplanned": 0,
+  "createDate": {
+    "$date": "2021-06-25T07:50:11.149Z"
+  }
+},{
+  "_id": {
+    "$oid": "60d58ab463468a38a07a7f48"
+  },
+  "problemId": "4",
+  "campaignId": 1,
+  "unplanned": 119.99999900000002,
+  "createDate": {
+    "$date": "2021-06-25T07:50:11.149Z"
+  }
+},{
+  "_id": {
+    "$oid": "60d58ac163468a38a07a7f4f"
+  },
+  "problemId": "5",
+  "campaignId": 0,
+  "unplanned": 0,
+  "createDate": {
+    "$date": "2021-06-25T07:50:25.385Z"
+  }
+},{
+  "_id": {
+    "$oid": "60d58ac163468a38a07a7f50"
+  },
+  "problemId": "5",
+  "campaignId": 1,
+  "unplanned": 119.99999900000002,
+  "createDate": {
+    "$date": "2021-06-25T07:50:25.385Z"
+  }
+},{
+  "_id": {
+    "$oid": "60d58bee63468a38a07a7f6d"
+  },
+  "problemId": "6",
+  "campaignId": 0,
+  "unplanned": 41.99999941666667,
+  "createDate": {
+    "$date": "2021-06-25T07:55:26.554Z"
+  }
+},{
+  "_id": {
+    "$oid": "60d58bee63468a38a07a7f6e"
+  },
+  "problemId": "6",
+  "campaignId": 1,
+  "unplanned": 27.999999500000005,
+  "createDate": {
+    "$date": "2021-06-25T07:55:26.554Z"
+  }
+},{
+  "_id": {
+    "$oid": "60d58c0963468a38a07a7f73"
+  },
+  "problemId": "7",
+  "campaignId": 0,
+  "unplanned": 6.999999416666683,
+  "createDate": {
+    "$date": "2021-06-25T07:55:53.702Z"
+  }
+},{
+  "_id": {
+    "$oid": "60d58c0963468a38a07a7f74"
+  },
+  "problemId": "7",
+  "campaignId": 1,
+  "unplanned": 35.99999850000004,
+  "createDate": {
+    "$date": "2021-06-25T07:55:53.702Z"
+  }
+},{
+  "_id": {
+    "$oid": "60d5914a532c2edb27964e9d"
+  },
+  "problemId": "8",
+  "campaignId": 0,
+  "unplanned": 6.999999416666703,
+  "createDate": {
+    "$date": "2021-06-25T08:18:18.631Z"
+  }
+},{
+  "_id": {
+    "$oid": "60d5914a532c2edb27964e9e"
+  },
+  "problemId": "8",
+  "campaignId": 1,
+  "unplanned": 27.99999900000006,
+  "createDate": {
+    "$date": "2021-06-25T08:18:18.631Z"
+  }
+},{
+  "_id": {
+    "$oid": "60d59154532c2edb27964ea7"
+  },
+  "problemId": "9",
+  "campaignId": 0,
+  "unplanned": 13.999999416666682,
+  "createDate": {
+    "$date": "2021-06-25T08:18:28.046Z"
+  }
+},{
+  "_id": {
+    "$oid": "60d59154532c2edb27964ea8"
+  },
+  "problemId": "9",
+  "campaignId": 1,
+  "unplanned": 55.99999900000009,
+  "createDate": {
+    "$date": "2021-06-25T08:18:28.046Z"
+  }
+},{
+  "_id": {
+    "$oid": "60d5915e532c2edb27964eaf"
+  },
+  "problemId": "10",
+  "campaignId": 0,
+  "unplanned": 37.99999912500005,
+  "createDate": {
+    "$date": "2021-06-25T08:18:38.254Z"
+  }
+},{
+  "_id": {
+    "$oid": "60d5915e532c2edb27964eb0"
+  },
+  "problemId": "10",
+  "campaignId": 1,
+  "unplanned": 31.999999333333374,
+  "createDate": {
+    "$date": "2021-06-25T08:18:38.254Z"
+  }
+},{
+  "_id": {
+    "$oid": "60d5916a532c2edb27964eb3"
+  },
+  "problemId": "1_network_campaign_share_rate_0",
+  "campaignId": 0,
+  "unplanned": 0,
+  "createDate": {
+    "$date": "2021-06-25T08:18:50.533Z"
+  }
+},{
+  "_id": {
+    "$oid": "60d59176532c2edb27964eb6"
+  },
+  "problemId": "1_domain_campaign_share_rate_1",
+  "campaignId": 0,
+  "unplanned": -7.105427357601002e-15,
+  "createDate": {
+    "$date": "2021-06-25T08:19:02.526Z"
+  }
+}]

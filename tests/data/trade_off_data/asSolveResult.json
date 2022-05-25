@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "60f50205fabab86477933d8a"
+  },
+  "problemId": "1_max_rss",
+  "campaignId": 0,
+  "placeId": 1,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 39.99999950000001,
+  "createDate": {
+    "$date": "2021-07-19T04:39:33.753Z"
+  }
+},{
+  "_id": {
+    "$oid": "60f50205fabab86477933d8b"
+  },
+  "problemId": "1_max_rss",
+  "campaignId": 1,
+  "placeId": 0,
+  "date": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "view": 39.99999975,
+  "createDate": {
+    "$date": "2021-07-19T04:39:33.753Z"
+  }
+}]

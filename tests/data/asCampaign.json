@@ -1,0 +1,1525 @@
+[{
+  "_id": {
+    "$oid": "5fe1bb053bc0a36ded6d203a"
+  },
+  "problemId": "1",
+  "campaignId": 0,
+  "isNetwork": true,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "priority": "CLASS_B",
+  "type": "DEFAULT",
+  "total": 35,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5fe1bb053bc0a36ded6d203b"
+  },
+  "problemId": "1",
+  "campaignId": 1,
+  "isNetwork": false,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "priority": "CLASS_B",
+  "type": "DEFAULT",
+  "total": 60,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5fe1bb643bc0a36ded6d203f"
+  },
+  "problemId": "2",
+  "campaignId": 0,
+  "isNetwork": true,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "priority": "CLASS_B",
+  "type": "DEFAULT",
+  "total": 35,
+  "placeIds": [
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5fe1bb643bc0a36ded6d2040"
+  },
+  "problemId": "2",
+  "campaignId": 1,
+  "isNetwork": false,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "priority": "CLASS_B",
+  "type": "DEFAULT",
+  "total": 60,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5fe1bb763bc0a36ded6d2044"
+  },
+  "problemId": "3",
+  "campaignId": 0,
+  "isNetwork": true,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "priority": "CLASS_B",
+  "type": "DEFAULT",
+  "total": 70,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5fe1bb763bc0a36ded6d2045"
+  },
+  "problemId": "3",
+  "campaignId": 1,
+  "isNetwork": false,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "priority": "CLASS_B",
+  "type": "DEFAULT",
+  "total": 120,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5fe1bb7a3bc0a36ded6d2049"
+  },
+  "problemId": "4",
+  "campaignId": 0,
+  "isNetwork": true,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "priority": "CLASS_B",
+  "type": "DEFAULT",
+  "total": 70,
+  "placeIds": [
+    0
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5fe1bb7a3bc0a36ded6d204a"
+  },
+  "problemId": "4",
+  "campaignId": 1,
+  "isNetwork": false,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "priority": "CLASS_B",
+  "type": "BANNER_STATIC",
+  "total": 120,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5fe1bb993bc0a36ded6d2053"
+  },
+  "problemId": "6",
+  "campaignId": 0,
+  "isNetwork": true,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "priority": "CLASS_B",
+  "type": "DEFAULT",
+  "total": 70,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 0
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5fe1bb993bc0a36ded6d2054"
+  },
+  "problemId": "6",
+  "campaignId": 1,
+  "isNetwork": false,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "priority": "CLASS_B",
+  "type": "DEFAULT",
+  "total": 120,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5fe1bb9b3bc0a36ded6d2058"
+  },
+  "problemId": "7",
+  "campaignId": 0,
+  "isNetwork": true,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "priority": "CLASS_B",
+  "type": "DEFAULT",
+  "total": 35,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5fe1bb9b3bc0a36ded6d2059"
+  },
+  "problemId": "7",
+  "campaignId": 1,
+  "isNetwork": false,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "priority": "CLASS_B",
+  "type": "DEFAULT",
+  "total": 60,
+  "placeIds": [
+    0
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5fe1bba03bc0a36ded6d205d"
+  },
+  "problemId": "8",
+  "campaignId": 0,
+  "isNetwork": true,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "priority": "CLASS_B",
+  "type": "DEFAULT",
+  "total": 35,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5fe1bba03bc0a36ded6d205e"
+  },
+  "problemId": "8",
+  "campaignId": 1,
+  "isNetwork": false,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "priority": "CLASS_B",
+  "type": "DEFAULT",
+  "total": 60,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5fe1bba13bc0a36ded6d2062"
+  },
+  "problemId": "9",
+  "campaignId": 0,
+  "isNetwork": true,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "priority": "CLASS_B",
+  "type": "DEFAULT",
+  "total": 70,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5fe1bba13bc0a36ded6d2063"
+  },
+  "problemId": "9",
+  "campaignId": 1,
+  "isNetwork": false,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "priority": "CLASS_B",
+  "type": "DEFAULT",
+  "total": 120,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5fe1bba43bc0a36ded6d2067"
+  },
+  "problemId": "10",
+  "campaignId": 0,
+  "isNetwork": true,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "priority": "CLASS_B",
+  "type": "DEFAULT",
+  "total": 70,
+  "placeIds": [
+    0
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5fe1bba43bc0a36ded6d2068"
+  },
+  "problemId": "10",
+  "campaignId": 1,
+  "isNetwork": false,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "priority": "CLASS_B",
+  "type": "DEFAULT",
+  "total": 120,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5fe1cfa83bc0a36ded6d206c"
+  },
+  "problemId": "5",
+  "campaignId": 0,
+  "isNetwork": true,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "priority": "CLASS_B",
+  "type": "DEFAULT",
+  "total": 70,
+  "placeIds": [
+    0
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5fe1cfa83bc0a36ded6d206d"
+  },
+  "problemId": "5",
+  "campaignId": 1,
+  "isNetwork": false,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "priority": "CLASS_B",
+  "type": "BANNER_STATIC",
+  "total": 120,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5fe1d0383bc0a36ded6d2071"
+  },
+  "problemId": "1c",
+  "campaignId": 0,
+  "isNetwork": true,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "priority": "CLASS_B",
+  "type": "DEFAULT",
+  "total": 35,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5fe1d0383bc0a36ded6d2072"
+  },
+  "problemId": "1c",
+  "campaignId": 1,
+  "isNetwork": false,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "priority": "CLASS_C",
+  "type": "DEFAULT",
+  "total": 60,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5fe1d03b3bc0a36ded6d2076"
+  },
+  "problemId": "2c",
+  "campaignId": 0,
+  "isNetwork": true,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "priority": "CLASS_C",
+  "type": "DEFAULT",
+  "total": 35,
+  "placeIds": [
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5fe1d03b3bc0a36ded6d2077"
+  },
+  "problemId": "2c",
+  "campaignId": 1,
+  "isNetwork": true,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "priority": "CLASS_B",
+  "type": "DEFAULT",
+  "total": 35,
+  "placeIds": [
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5fe1d03b3bc0a36ded6d2078"
+  },
+  "problemId": "2c",
+  "campaignId": 2,
+  "isNetwork": false,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "priority": "CLASS_B",
+  "type": "DEFAULT",
+  "total": 60,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5fe1d03d3bc0a36ded6d207c"
+  },
+  "problemId": "3c",
+  "campaignId": 0,
+  "isNetwork": true,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "priority": "CLASS_B",
+  "type": "DEFAULT",
+  "total": 70,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5fe1d03d3bc0a36ded6d207d"
+  },
+  "problemId": "3c",
+  "campaignId": 1,
+  "isNetwork": true,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "priority": "CLASS_C",
+  "type": "DEFAULT",
+  "total": 120,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5fe1d03d3bc0a36ded6d207e"
+  },
+  "problemId": "3c",
+  "campaignId": 2,
+  "isNetwork": false,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-10T00:00:00Z"
+  },
+  "priority": "CLASS_C",
+  "type": "DEFAULT",
+  "total": 120,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5ff57e78b571fd7aef7e8b96"
+  },
+  "problemId": "1_network_campaign_share_rate_0",
+  "campaignId": 0,
+  "isNetwork": true,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "priority": "CLASS_B",
+  "type": "DEFAULT",
+  "total": 35,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5ff5801ab571fd7aef7e8dad"
+  },
+  "problemId": "1_domain_campaign_share_rate_1",
+  "campaignId": 0,
+  "isNetwork": false,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "priority": "CLASS_B",
+  "type": "DEFAULT",
+  "total": 35,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5ff66d92b571fd7aef7f0b4c"
+  },
+  "problemId": "1_campaign_a_each",
+  "campaignId": 0,
+  "isNetwork": true,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "priority": "CLASS_A",
+  "type": "DEFAULT",
+  "total": 35,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5ff66d9db571fd7aef7f0b56"
+  },
+  "problemId": "1_campaign_a_each",
+  "campaignId": 1,
+  "isNetwork": false,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "priority": "CLASS_A",
+  "type": "DEFAULT",
+  "total": 60,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5ff672efb571fd7aef7f0fbb"
+  },
+  "problemId": "2_campaign_a_network",
+  "campaignId": 0,
+  "isNetwork": true,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "priority": "CLASS_A",
+  "type": "DEFAULT",
+  "total": 35,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5ff672fab571fd7aef7f0fc7"
+  },
+  "problemId": "2_campaign_a_network",
+  "campaignId": 1,
+  "isNetwork": true,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "priority": "CLASS_A",
+  "type": "DEFAULT",
+  "total": 879998,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5ff673bdb571fd7aef7f1084"
+  },
+  "problemId": "2_campaign_a_domain",
+  "campaignId": 0,
+  "isNetwork": false,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "priority": "CLASS_A",
+  "type": "DEFAULT",
+  "total": 35,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5ff673c5b571fd7aef7f1090"
+  },
+  "problemId": "2_campaign_a_domain",
+  "campaignId": 1,
+  "isNetwork": false,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "priority": "CLASS_A",
+  "type": "DEFAULT",
+  "total": 12345,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5ff674acb571fd7aef7f115e"
+  },
+  "problemId": "have_profiles",
+  "campaignId": 0,
+  "isNetwork": true,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "priority": "CLASS_B",
+  "type": "DEFAULT",
+  "total": 40,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": [
+    [
+      {
+        "type": "GENDER",
+        "values": [
+          0
+        ]
+      },
+      {
+        "type": "AGE",
+        "values": [
+          2,
+          1,
+          6,
+          4
+        ]
+      }
+    ],
+    [
+      {
+        "type": "GENDER",
+        "values": [
+          1
+        ]
+      },
+      {
+        "type": "AGE",
+        "values": [
+          4,
+          1
+        ]
+      }
+    ]
+  ]
+},{
+  "_id": {
+    "$oid": "5ff674cbb571fd7aef7f117e"
+  },
+  "problemId": "have_profiles",
+  "campaignId": 1,
+  "isNetwork": false,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "priority": "CLASS_B",
+  "type": "DEFAULT",
+  "total": 40,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": [
+    [
+      {
+        "type": "GENDER",
+        "values": [
+          1
+        ]
+      },
+      {
+        "type": "AGE",
+        "values": [
+          4,
+          1,
+          2
+        ]
+      }
+    ]
+  ]
+},{
+  "_id": {
+    "$oid": "5ff69332b571fd7aef7f2c47"
+  },
+  "problemId": "1_b_network_1_c_domain",
+  "campaignId": 0,
+  "isNetwork": true,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "priority": "CLASS_B",
+  "type": "DEFAULT",
+  "total": 35,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5ff69349b571fd7aef7f2c62"
+  },
+  "problemId": "1_b_network_1_c_domain",
+  "campaignId": 1,
+  "isNetwork": false,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "priority": "CLASS_C",
+  "type": "DEFAULT",
+  "total": 35,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5ff6aef5b571fd7aef7f4783"
+  },
+  "problemId": "1_b_network_1_c_network",
+  "campaignId": 0,
+  "isNetwork": true,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "priority": "CLASS_B",
+  "type": "DEFAULT",
+  "total": 35,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5ff6af00b571fd7aef7f478f"
+  },
+  "problemId": "1_b_network_1_c_network",
+  "campaignId": 1,
+  "isNetwork": true,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "priority": "CLASS_C",
+  "type": "DEFAULT",
+  "total": 35,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5ff6b4a6b571fd7aef7f4d3c"
+  },
+  "problemId": "1_b_domain_1_c_network",
+  "campaignId": 0,
+  "isNetwork": false,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "priority": "CLASS_B",
+  "type": "DEFAULT",
+  "total": 35,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5ff6b4b3b571fd7aef7f4d4c"
+  },
+  "problemId": "1_b_domain_1_c_network",
+  "campaignId": 1,
+  "isNetwork": true,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "priority": "CLASS_C",
+  "type": "DEFAULT",
+  "total": 35,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5ff6b599b571fd7aef7f4e41"
+  },
+  "problemId": "1_b_domain_1_c_domain",
+  "campaignId": 0,
+  "isNetwork": false,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "priority": "CLASS_B",
+  "type": "DEFAULT",
+  "total": 35,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "5ff6b6a9b571fd7aef7f4f59"
+  },
+  "problemId": "1_b_domain_1_c_domain",
+  "campaignId": 1,
+  "isNetwork": false,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "priority": "CLASS_C",
+  "type": "DEFAULT",
+  "total": 35,
+  "placeIds": [
+    0
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "60c6d6ecebdfdca0db22a6c0"
+  },
+  "problemId": "hard_nw_1",
+  "campaignId": 0,
+  "isNetwork": true,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "priority": "CLASS_B",
+  "type": "DEFAULT",
+  "total": 200,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+},{
+  "_id": {
+    "$oid": "60c6d6f8ebdfdca0db22a6df"
+  },
+  "problemId": "hard_nw_1",
+  "campaignId": 1,
+  "isNetwork": false,
+  "startDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "expiredDate": {
+    "$date": "2030-07-09T00:00:00Z"
+  },
+  "priority": "CLASS_B",
+  "type": "DEFAULT",
+  "total": 100,
+  "placeIds": [
+    0,
+    1
+  ],
+  "weights": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 10
+    }
+  ],
+  "profiles": []
+}]

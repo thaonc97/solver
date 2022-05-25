@@ -1,0 +1,9 @@
+__pycache__/
+ThaoTestLinhTinh/
+*.ipynb_checkpoints
+# *.ipynb
+utils/
+.coverage
+coverage.xml
+junit.xml
+research results

@@ -1,0 +1,4530 @@
+[{
+  "_id": {
+    "$oid": "5fe1bb053bc0a36ded6d2038"
+  },
+  "problemId": "1",
+  "placeId": 0,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.4,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5fe1bb053bc0a36ded6d2039"
+  },
+  "problemId": "1",
+  "placeId": 1,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 20
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.6,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5fe1bb643bc0a36ded6d203d"
+  },
+  "problemId": "2",
+  "placeId": 0,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.5,
+        0.5,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.5,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5fe1bb643bc0a36ded6d203e"
+  },
+  "problemId": "2",
+  "placeId": 1,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 20
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.5,
+        0.5,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.5,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5fe1bb763bc0a36ded6d2042"
+  },
+  "problemId": "3",
+  "placeId": 0,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.5,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5fe1bb763bc0a36ded6d2043"
+  },
+  "problemId": "3",
+  "placeId": 1,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 20
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 20
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.5,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5fe1bb7a3bc0a36ded6d2047"
+  },
+  "problemId": "4",
+  "placeId": 0,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 1
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.5,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5fe1bb7a3bc0a36ded6d2048"
+  },
+  "problemId": "4",
+  "placeId": 1,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 1
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 20
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 20
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.5,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5fe1bb993bc0a36ded6d2051"
+  },
+  "problemId": "6",
+  "placeId": 0,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.4,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5fe1bb993bc0a36ded6d2052"
+  },
+  "problemId": "6",
+  "placeId": 1,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 20
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 20
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.6,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5fe1bb9b3bc0a36ded6d2056"
+  },
+  "problemId": "7",
+  "placeId": 0,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.4,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5fe1bb9b3bc0a36ded6d2057"
+  },
+  "problemId": "7",
+  "placeId": 1,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 20
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.6,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5fe1bba03bc0a36ded6d205b"
+  },
+  "problemId": "8",
+  "placeId": 0,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.4,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5fe1bba03bc0a36ded6d205c"
+  },
+  "problemId": "8",
+  "placeId": 1,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 20
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.6,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5fe1bba13bc0a36ded6d2060"
+  },
+  "problemId": "9",
+  "placeId": 0,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.4,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5fe1bba13bc0a36ded6d2061"
+  },
+  "problemId": "9",
+  "placeId": 1,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 20
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 20
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.6,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5fe1bba43bc0a36ded6d2065"
+  },
+  "problemId": "10",
+  "placeId": 0,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.4,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5fe1bba43bc0a36ded6d2066"
+  },
+  "problemId": "10",
+  "placeId": 1,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 20
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 20
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.6,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5fe1cfa73bc0a36ded6d206a"
+  },
+  "problemId": "5",
+  "placeId": 0,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 1
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.4,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5fe1cfa73bc0a36ded6d206b"
+  },
+  "problemId": "5",
+  "placeId": 1,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 1
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 20
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 20
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.6,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5fe1d0383bc0a36ded6d206f"
+  },
+  "problemId": "1c",
+  "placeId": 0,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.5,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5fe1d0383bc0a36ded6d2070"
+  },
+  "problemId": "1c",
+  "placeId": 1,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.5,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5fe1d03b3bc0a36ded6d2074"
+  },
+  "problemId": "2c",
+  "placeId": 0,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.5,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5fe1d03b3bc0a36ded6d2075"
+  },
+  "problemId": "2c",
+  "placeId": 1,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 55
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.5,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5fe1d03d3bc0a36ded6d207a"
+  },
+  "problemId": "3c",
+  "placeId": 0,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.5,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5fe1d03d3bc0a36ded6d207b"
+  },
+  "problemId": "3c",
+  "placeId": 1,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 30
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.5,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5fed44cfb571fd7aef79bc8d"
+  },
+  "problemId": "no_campaign_1",
+  "placeId": 0,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.4,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5ff57ea4b571fd7aef7e8bd5"
+  },
+  "problemId": "1_network_campaign_share_rate_0",
+  "placeId": 0,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5ff5804cb571fd7aef7e8dfa"
+  },
+  "problemId": "1_domain_campaign_share_rate_1",
+  "placeId": 0,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 50
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 1,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5ff66dc0b571fd7aef7f0b7d"
+  },
+  "problemId": "1_campaign_a_each",
+  "placeId": 0,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.4,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5ff66dddb571fd7aef7f0b92"
+  },
+  "problemId": "1_campaign_a_each",
+  "placeId": 1,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 20
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.4,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5ff6731ab571fd7aef7f0fec"
+  },
+  "problemId": "2_campaign_a_network",
+  "placeId": 0,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.4,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5ff67322b571fd7aef7f0ff1"
+  },
+  "problemId": "2_campaign_a_network",
+  "placeId": 1,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 60
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 60
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.4,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5ff673fab571fd7aef7f10ba"
+  },
+  "problemId": "2_campaign_a_domain",
+  "placeId": 0,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.4,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5ff67409b571fd7aef7f10d2"
+  },
+  "problemId": "2_campaign_a_domain",
+  "placeId": 1,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.4,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5ff6754eb571fd7aef7f120e"
+  },
+  "problemId": "have_profiles",
+  "placeId": 0,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.4,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5ff6755db571fd7aef7f1221"
+  },
+  "problemId": "have_profiles",
+  "placeId": 1,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.4,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5ff692c4b571fd7aef7f2bac"
+  },
+  "problemId": "1_b_network_1_c_domain",
+  "placeId": 0,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.4,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5ff692d8b571fd7aef7f2bc6"
+  },
+  "problemId": "1_b_network_1_c_domain",
+  "placeId": 1,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.4,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5ff6af65b571fd7aef7f47fb"
+  },
+  "problemId": "1_b_network_1_c_network",
+  "placeId": 0,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.4,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5ff6af6cb571fd7aef7f480b"
+  },
+  "problemId": "1_b_network_1_c_network",
+  "placeId": 1,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.4,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5ff6b529b571fd7aef7f4dc4"
+  },
+  "problemId": "1_b_domain_1_c_network",
+  "placeId": 0,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.4,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5ff6b52fb571fd7aef7f4dca"
+  },
+  "problemId": "1_b_domain_1_c_network",
+  "placeId": 1,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.4,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5ff6b6bab571fd7aef7f4f78"
+  },
+  "problemId": "1_b_domain_1_c_domain",
+  "placeId": 0,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.4,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "5ff6b6c6b571fd7aef7f4f86"
+  },
+  "problemId": "1_b_domain_1_c_domain",
+  "placeId": 1,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.4,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "60c6d63bebdfdca0db22a4bc"
+  },
+  "problemId": "hard_nw_1",
+  "placeId": 0,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 100
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.5,
+  "shareType": "NETWORK_HARD"
+},{
+  "_id": {
+    "$oid": "60c6d668ebdfdca0db22a531"
+  },
+  "problemId": "hard_nw_1",
+  "placeId": 1,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 200
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.5,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "60f4ff5bebdfdca0db5da3a1"
+  },
+  "problemId": "1_max_rss",
+  "placeId": 0,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.4,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "60f4ff64ebdfdca0db5da3b7"
+  },
+  "problemId": "1_max_rss",
+  "placeId": 1,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.4,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "60f50860ebdfdca0db5db2ab"
+  },
+  "problemId": "chenh_lech",
+  "placeId": 1,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.4,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "60f50867ebdfdca0db5db2b4"
+  },
+  "problemId": "chenh_lech",
+  "placeId": 0,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.4,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "619dc611548c0e3ad3faed6c"
+  },
+  "problemId": "aPhong",
+  "placeId": 0,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.5,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "619dc61d548c0e3ad3faed7b"
+  },
+  "problemId": "aPhong",
+  "placeId": 1,
+  "ctrs": [
+    {
+      "type": "DEFAULT",
+      "value": 1
+    },
+    {
+      "type": "BANNER_STATIC",
+      "value": 0
+    },
+    {
+      "type": "BANNER_EFFECT",
+      "value": 0
+    },
+    {
+      "type": "BANNER_SLIDE",
+      "value": 0
+    },
+    {
+      "value": 0,
+      "type": "CPA"
+    },
+    {
+      "value": 0,
+      "type": "SURVEY"
+    },
+    {
+      "value": 0,
+      "type": "VIDEO"
+    },
+    {
+      "value": 0,
+      "type": "GAME"
+    },
+    {
+      "value": 0,
+      "type": "TEXT_MATCHING"
+    },
+    {
+      "value": 0,
+      "type": "OTHER"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": "2030-07-09T00:00:00Z"
+      },
+      "value": 40
+    },
+    {
+      "date": {
+        "$date": "2030-07-10T00:00:00Z"
+      },
+      "value": 40
+    }
+  ],
+  "profilesRatio": [
+    {
+      "type": "GENDER",
+      "ratio": [
+        0.55,
+        0.45,
+        0
+      ]
+    },
+    {
+      "type": "AGE",
+      "ratio": [
+        0.15,
+        0.1,
+        0.2,
+        0.2,
+        0.2,
+        0.1,
+        0.05,
+        0
+      ]
+    }
+  ],
+  "shareRate": 0.5,
+  "shareType": "SOFT"
+},{
+  "_id": {
+    "$oid": "61a6df6eacfbe4b7776de395"
+  },
+  "problemId": "c37b8e91-ca81-47a0-b043-d502d5d8dc63",
+  "placeId": 20,
+  "ctrs": [
+    {
+      "value": 1.1,
+      "type": "DEFAULT"
+    }
+  ],
+  "views": [
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "-25200000"
+        }
+      },
+      "value": 1.1
+    }
+  ],
+  "profilesRatio": [
+    {
+      "ratio": [
+        1.1
+      ],
+      "type": "GENDER"
+    }
+  ],
+  "shareRate": 1.1,
+  "shareType": "SOFT"
+}]
